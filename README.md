@@ -1,7 +1,7 @@
 # Object-detection
 
 
-In this code, we will write an object detection application using CNN as well as the following: keras, numpy and matplotlib libraries.
+In this code, we will write an object detection application using CNN as well as the following libraries: keras, numpy and matplotlib libraries.
 
 (trainimg,trainlb),(testimg,testlb) = datasets.cifar10.load_data()
 
